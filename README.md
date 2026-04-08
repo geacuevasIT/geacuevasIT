@@ -2,7 +2,7 @@
 <img src="YOUR_IMAGE_HERE.png" align="right" width="225" style="margin-left: 20px; border-radius: 12px;">
 
 **💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
-### hello i'm **Gea** ♡
+### hello i'm **gea cuevas** ♡
 
 i'm a **qa engineer & project manager** who loves building <br>
 reliable, high-quality systems with a soft spot for clean UX ♡ <br>
@@ -46,12 +46,22 @@ through thoughtful design + efficient code ✧
 
 ### 🎀🧪 qa & testing
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-F4ACB7?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPUnit-FFB3C1?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_Testing-F4ACB7?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Testing-FFDEEB?style=for-the-badge&logo=fastapi&logoColor=333" />
+  <img src="https://img.shields.io/badge/Automation-FFB3C1?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F4ACB7?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ✨ end-to-end testing (e2e)  
 🔄 regression testing  
 🐞 bug tracking & reporting  
 🧩 test case design  
-⚙️ automation testing  
-🔌 backend/api testing  
+⚙️ automation testing (playwright)  
+🔌 backend/api testing (phpunit, laravel)  
 📈 continuous quality improvement  
 
 ---
