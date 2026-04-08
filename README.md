@@ -144,7 +144,7 @@ Helped improve team workflow and delivery timelines
 </h2>
 
 > [!IMPORTANT]  
-> Add your resume link here (Google Drive or portfolio)
+> 
 
 <br>
 
