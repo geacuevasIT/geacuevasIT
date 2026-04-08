@@ -1,139 +1,109 @@
-<!--
-    Hi! I'm Gea Cuevas
-    Tailored for QA Engineering & Project Management
--->
+<img src="https://placehold.jp/24/F4ACB7/F4ACB7/1500x10.png?text=%20" width="100%" height="3px" />
+<img src="YOUR_IMAGE_HERE.png" align="right" width="225" style="margin-left: 20px; border-radius: 12px;">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4ACB7&height=120&section=header" alt="header"/> 
+**💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
+### hello i'm **gea cuevas** ♡
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=500&color=F4ACB7&width=520&lines=Hi%2C+I'm+Gea+Cuevas;QA+Engineer+%7C+Project+Manager;Full-Stack+Developer" alt="Typing SVG"/>
-</a>
+i'm a **qa engineer & project manager** who loves building <br>
+reliable, high-quality systems with a soft spot for clean UX ♡ <br>
+also a **full-stack developer** who enjoys bringing ideas to life <br>
+through thoughtful design + efficient code ✧  
 
+🐩 **current focus:** qa automation, agile delivery, system quality <br>
+💖 **specialties:** manual, automation & backend testing <br>
+🧋 **learning:** advanced test architecture, scaling QA systems <br>
+🎀 **style:** minimalism, soft pinks, clean & user-friendly interfaces <br>
+
+---
+
+### 🧸💖 toolbox
+
+<img src="https://img.shields.io/badge/Playwright-F4ACB7?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-F4ACB7?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-F4ACB7?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=333" />
 <br>
+<img src="https://img.shields.io/badge/Node.js-FFB3C1?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-FFDEEB?style=for-the-badge&logo=react&logoColor=333" />
+<img src="https://img.shields.io/badge/MySQL-FFB3C1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-F9A8D4?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<h2 style="margin-bottom:0.3em;">
-  🧠 About Me
-</h2>
+---
 
-🧪 Quality Assurance Engineer focused on delivering reliable, high-quality systems  
-📊 Project Manager experienced in Agile workflows and team coordination  
-💻 Full-Stack Developer with strong technical foundation  
+### 🩰˚˖𓍢 🦢✧˚.🎀 about me
 
-🔍 Specialized in <b>Manual, Automation & Backend Testing</b>  
-⚙️ Building <b>E2E tests with Playwright & API tests with PHPUnit</b>  
-🧩 Experienced with <b>Laravel-based systems</b>  
-📅 Managing projects with modern PM tools  
-🤝 Bridging developers, stakeholders, and users  
-🎯 Goal: Become a <b>QA Lead / Tech Project Manager</b>
+🧪 qa engineer focused on delivering **reliable systems**  
+📊 project manager experienced in **agile workflows**  
+💻 developer with strong **full-stack foundation**  
 
-<br>
+⚙️ building **e2e tests with playwright** & api tests with phpunit  
+🧩 working with **laravel-based systems**  
+🤝 bridging devs, stakeholders & users  
+🎯 goal: **qa lead / tech project manager**
 
-<h2 style="margin-bottom:0.3em;">
-  🧪 QA & Testing Skills
-</h2>
+---
 
-[![QA Skills](https://skillicons.dev/icons?i=playwright,php,laravel,js,nodejs,github,git)](https://skillicons.dev)
+### 🎀🧪 qa & testing
 
-✅ End-to-End Testing (E2E)  
-🔄 Regression Testing  
-🐞 Bug Tracking & Reporting  
-🧩 Test Case Design  
-⚙️ Automation Testing (Playwright)  
-🔌 Backend/API Testing (PHPUnit, Laravel)  
-📈 Continuous Quality Improvement  
+✨ end-to-end testing (e2e)  
+🔄 regression testing  
+🐞 bug tracking & reporting  
+🧩 test case design  
+⚙️ automation testing  
+🔌 backend/api testing  
+📈 continuous quality improvement  
 
-<br>
+---
 
-<h2 style="margin-bottom:0.3em;">
-  📊 Project Management Tools
-</h2>
+### 💻🎀 project tools
 
-<div>
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Asana-%23F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Jira-F4ACB7?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-FFB3C1?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Asana-F9A8D4?style=for-the-badge&logo=asana&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickUp-FF85A2?style=for-the-badge&logo=clickup&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-FFC9DE?style=for-the-badge&logo=notion&logoColor=333"/>
 
-📌 Agile / Scrum Methodologies  
-📅 Sprint Planning & Task Tracking  
-📢 Stakeholder Communication  
-🚧 Risk Management  
+📌 agile / scrum  
+📅 sprint planning  
+📢 stakeholder communication  
+🚧 risk management  
 
-<br>
+---
 
-<h2 style="margin-bottom:0.3em;">
-  💻 Technical Background
-</h2>
+### 🧁💻 projects
 
-[![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,php,laravel,mysql,postgres,prisma,firebase,supabase,html,css)](https://skillicons.dev)
+🧪 **automated testing suite (playwright)**  
+— built e2e tests for core user flows  
 
-🔍 Debug backend issues efficiently  
-⚡ Understand system architecture  
-🧠 Collaborate deeply with developers  
-🧪 Write more effective and realistic test scenarios  
+🔌 **api testing (phpunit + laravel)**  
+— validated backend logic & edge cases  
 
-<br>
+🐞 **manual testing & bug reporting**  
+— structured test plans + clear documentation  
 
-<h2 style="margin-bottom:0.3em;">
-  🧪 QA Projects
-</h2>
+📊 **agile qa support**  
+— ensured quality across sprint cycles  
 
-### 🔹 Automated Testing Suite (Playwright)  
-Built end-to-end test automation for web applications  
-Covered critical user flows (login, forms, navigation)  
-Reduced manual testing effort and improved release confidence  
+---
 
-### 🔹 API Testing with PHPUnit (Laravel)  
-Developed backend test cases for REST APIs  
-Validated request/response handling and edge cases  
-Ensured data integrity and business logic correctness  
-
-### 🔹 Manual Testing & Bug Reporting  
-Created structured test cases and test plans  
-Identified and documented bugs with clear reproduction steps  
-Collaborated with developers to resolve issues efficiently  
-
-### 🔹 Agile Project QA Support  
-Participated in sprint planning, stand-ups, and retrospectives  
-Ensured quality checkpoints before deployments  
-Helped improve team workflow and delivery timelines  
-
-<br>
-
-<h2 style="margin-bottom:0.3em;">
-  🏆 Achievements
-</h2>
+### 🏆💖 achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=geacuevasIT&theme=calm_pink)
 
-<br>
+---
 
-<h2 style="margin-bottom:0.3em;">
-  📫 Connect With Me
-</h2>
+### 📫🎀 connect
 
-<div>
-    <a href="YOUR_LINKEDIN_HERE">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:YOUR_EMAIL_HERE">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email"/>
-    </a>
-</div>
+<a href="YOUR_LINKEDIN_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-F4ACB7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/Email-FFB3C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<h2 style="margin-bottom:0.3em;">
-  📄 Resume
-</h2>
+---
 
-> [!IMPORTANT]  
-> 
+💡 *"quality is not an act, it is a habit."*
 
-<br>
-
-💡 <i>"Quality is not an act, it is a habit."</i>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4ACB7&height=120&section=footer" alt="footer"/>
+<img src="https://placehold.jp/24/F4ACB7/F4ACB7/1500x10.png?text=%20" width="100%" height="3px" />
