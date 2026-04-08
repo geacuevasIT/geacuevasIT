@@ -2,7 +2,7 @@
 <img src="YOUR_IMAGE_HERE.png" align="right" width="225" style="margin-left: 20px; border-radius: 12px;">
 
 **💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
-### hello i'm **gea cuevas** ♡
+### hello i'm **Gea** ♡
 
 i'm a **qa engineer & project manager** who loves building <br>
 reliable, high-quality systems with a soft spot for clean UX ♡ <br>
@@ -18,15 +18,16 @@ through thoughtful design + efficient code ✧
 
 ### 🧸💖 toolbox
 
-<img src="https://img.shields.io/badge/Playwright-F4ACB7?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-F4ACB7?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-F4ACB7?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=333" />
-<br>
-<img src="https://img.shields.io/badge/Node.js-FFB3C1?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-FFDEEB?style=for-the-badge&logo=react&logoColor=333" />
-<img src="https://img.shields.io/badge/MySQL-FFB3C1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-F9A8D4?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-F4ACB7?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-F4ACB7?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F4ACB7?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=333" />
+  <img src="https://img.shields.io/badge/Node.js-FFB3C1?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FFDEEB?style=for-the-badge&logo=react&logoColor=333" />
+  <img src="https://img.shields.io/badge/MySQL-FFB3C1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F9A8D4?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
@@ -57,11 +58,13 @@ through thoughtful design + efficient code ✧
 
 ### 💻🎀 project tools
 
-<img src="https://img.shields.io/badge/Jira-F4ACB7?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-FFB3C1?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Asana-F9A8D4?style=for-the-badge&logo=asana&logoColor=white"/>
-<img src="https://img.shields.io/badge/ClickUp-FF85A2?style=for-the-badge&logo=clickup&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-FFC9DE?style=for-the-badge&logo=notion&logoColor=333"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-F4ACB7?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-FFB3C1?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Asana-F9A8D4?style=for-the-badge&logo=asana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-FF85A2?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-FFC9DE?style=for-the-badge&logo=notion&logoColor=333"/>
+</p>
 
 📌 agile / scrum  
 📅 sprint planning  
