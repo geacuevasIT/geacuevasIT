@@ -1,72 +1,98 @@
-# 👋 Hi, I'm Gea Cuevas  
+<!--
+    Hi! I'm Gea Cuevas
+    Inspired by Daria Stanilevici's README ✨
+    Customized for QA Engineering & Project Management
+-->
 
-🧪 **Quality Assurance Engineer | 📊 Project Manager | 💻 Full-Stack Developer**  
-🚀 Ensuring high-quality software through testing, automation, and efficient project delivery  
-🎯 Bridging the gap between development, quality, and business goals  
+<div align="center">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4ACB7&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=500&color=F4ACB7&width=520&lines=Hi%2C+I'm+Gea+Cuevas;QA+Engineer+%7C+Project+Manager;Full-Stack+Developer" alt="Typing SVG"/>
+</a>
 
 ---
 
 ## 🧠 About Me
-- 🧪 Focused on **Software Quality Assurance (Manual & Automation Testing)**
-- 📊 Experienced in **Project Management & Agile workflows**
-- 🔍 Skilled in identifying bugs, improving processes, and ensuring product reliability  
-- 🤝 Strong collaboration with developers, designers, and stakeholders  
-- ⚡ Background in **Full-Stack Development**, enabling deeper technical QA insight  
+🧪 Quality Assurance Engineer focused on delivering reliable, high-quality systems  
+📊 Project Manager experienced in Agile workflows and team coordination  
+💻 Full-Stack Developer with strong technical foundation  
+
+🔍 Specialized in **Manual, Automation & Backend Testing**  
+⚙️ Building **E2E tests with Playwright & API tests with PHPUnit**  
+🧩 Experienced with **Laravel-based systems**  
+📅 Managing projects with modern PM tools  
+🤝 Bridging developers, stakeholders, and users  
+🎯 Goal: Become a **QA Lead / Tech Project Manager**
 
 ---
 
-## 🧪 Quality Assurance & Testing
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+## 🧪 QA & Testing Skills
+[![QA Skills](https://skillicons.dev/icons?i=playwright,php,laravel,js,nodejs,github,git)](https://skillicons.dev)
 
-- ✅ End-to-End Testing (E2E)
-- 🔄 Regression Testing  
-- 🧩 Test Case Design & Execution  
-- 🐞 Bug Tracking & Reporting  
-- ⚙️ Test Automation with Playwright  
-- 📈 Quality Metrics & Continuous Improvement  
+✅ End-to-End Testing (E2E)  
+🔄 Regression Testing  
+🐞 Bug Tracking & Reporting  
+🧩 Test Case Design  
+⚙️ Automation Testing (Playwright)  
+🔌 Backend/API Testing (PHPUnit, Laravel)  
+📈 Continuous Quality Improvement  
 
 ---
 
-## 📊 Project Management
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Asana](https://img.shields.io/badge/asana-%23F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Blue](https://img.shields.io/badge/Blue-1DA1F2?style=for-the-badge&logoColor=white)
+## 📊 Project Management Tools
 
-- 📌 Agile / Scrum Methodologies  
-- 🗂️ Sprint Planning & Task Management  
-- 📅 Timeline & Resource Coordination  
-- 📢 Stakeholder Communication  
-- 🚧 Risk Management & Problem Solving  
-- 🧭 Workflow optimization using modern PM tools  
+<div>
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Asana-%23F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</div>
+
+📌 Agile / Scrum Methodologies  
+📅 Sprint Planning & Task Tracking  
+📢 Stakeholder Communication  
+🚧 Risk Management  
 
 ---
 
 ## 💻 Technical Background
+[![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,php,laravel,mysql,postgres,prisma,firebase,supabase,html,css)](https://skillicons.dev)
 
-### 🚀 Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+🔍 Debug backend issues efficiently  
+⚡ Understand system architecture  
+🧠 Collaborate deeply with developers  
+🧪 Write more effective and realistic test scenarios  
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+---
 
-### ☁️ Cloud & Tools
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🧪 QA Projects
+
+### 🔹 Automated Testing Suite (Playwright)
+Built end-to-end test automation for web applications  
+Covered critical user flows (login, forms, navigation)  
+Reduced manual testing effort and improved release confidence  
+
+### 🔹 API Testing with PHPUnit (Laravel)
+Developed backend test cases for REST APIs  
+Validated request/response handling and edge cases  
+Ensured data integrity and business logic correctness  
+
+### 🔹 Manual Testing & Bug Reporting
+Created structured test cases and test plans  
+Identified and documented bugs with clear reproduction steps  
+Collaborated with developers to resolve issues efficiently  
+
+### 🔹 Agile Project QA Support
+Participated in sprint planning, stand-ups, and retrospectives  
+Ensured quality checkpoints before deployments  
+Helped improve team workflow and delivery timelines  
 
 ---
 
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=geacuevasIT&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=geacuevasIT&theme=calm_pink&hide_border=false)
@@ -80,16 +106,26 @@
 
 ---
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 Connect With Me
+<div>
+    <a href="YOUR_LINKEDIN_HERE">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
+    </a>
+    <a href="mailto:YOUR_EMAIL_HERE">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/>
+    </a>
+</div>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-- 🌐 Portfolio: (add your site)
+## 📄 Resume
+> [!IMPORTANT]  
+> Add your resume link here (Google Drive or portfolio)
 
 ---
 
 💡 *"Quality is not an act, it is a habit."*
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4ACB7&height=120&section=footer" alt="footer"/>
+
+</div>
