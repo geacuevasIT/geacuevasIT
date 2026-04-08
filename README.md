@@ -3,8 +3,6 @@
     Tailored for QA Engineering & Project Management
 -->
 
-<div align="center">
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4ACB7&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
@@ -13,7 +11,7 @@
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   🧠 About Me
 </h2>
 
@@ -30,7 +28,7 @@
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   🧪 QA & Testing Skills
 </h2>
 
@@ -46,7 +44,7 @@
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   📊 Project Management Tools
 </h2>
 
@@ -65,7 +63,7 @@
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   💻 Technical Background
 </h2>
 
@@ -78,7 +76,7 @@
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   🧪 QA Projects
 </h2>
 
@@ -104,8 +102,7 @@ Helped improve team workflow and delivery timelines
 
 <br>
 
-
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   🏆 Achievements
 </h2>
 
@@ -113,7 +110,7 @@ Helped improve team workflow and delivery timelines
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   📫 Connect With Me
 </h2>
 
@@ -128,7 +125,7 @@ Helped improve team workflow and delivery timelines
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
+<h2 style="margin-bottom:0.3em;">
   📄 Resume
 </h2>
 
@@ -140,5 +137,3 @@ Helped improve team workflow and delivery timelines
 💡 <i>"Quality is not an act, it is a habit."</i>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4ACB7&height=120&section=footer" alt="footer"/>
-
-</div>
