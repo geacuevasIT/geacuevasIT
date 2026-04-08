@@ -104,17 +104,6 @@ Helped improve team workflow and delivery timelines
 
 <br>
 
-<h2 align="center" style="margin-bottom:0.3em;">
-  📊 GitHub Stats
-</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=geacuevasIT&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=geacuevasIT&theme=calm_pink&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geacuevasIT&theme=calm_pink&hide_border=false&layout=compact)
-
-<br>
 
 <h2 align="center" style="margin-bottom:0.3em;">
   🏆 Achievements
