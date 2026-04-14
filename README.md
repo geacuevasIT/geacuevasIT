@@ -1,7 +1,7 @@
 <img src="https://placehold.jp/24/F4ACB7/F4ACB7/1500x10.png?text=%20" width="100%" height="3px" />
 <img src="YOUR_IMAGE_HERE.png" align="right" width="225" style="margin-left: 20px; border-radius: 12px;">
 
-**💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
+**౨ৎ ˖ ࣪⊹⊹₊ ⋆୨ৎ**
 ### hello i'm **gea cuevas** ♡
 
 i'm a **qa engineer & project manager** who loves building <br>
