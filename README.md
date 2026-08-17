@@ -2,12 +2,13 @@
 <img src="YOUR_IMAGE_HERE.png" align="right" width="225" style="margin-left: 20px; border-radius: 12px;">
 
 **౨ৎ ˖ ࣪⊹⊹₊ ⋆୨ৎ**
+
 ### hello i'm **gea cuevas** ♡
 
 i'm a **qa engineer & project manager** who loves building <br>
 reliable, high-quality systems with a soft spot for clean UX ♡ <br>
 also a **full-stack developer** who enjoys bringing ideas to life <br>
-through thoughtful design + efficient code ✧  
+through thoughtful design + efficient code ✧
 
 🐩 **current focus:** qa automation, agile delivery, system quality <br>
 💖 **specialties:** manual, automation & backend testing <br>
@@ -35,7 +36,7 @@ through thoughtful design + efficient code ✧
 
 🧪 qa engineer focused on delivering **reliable systems**  
 📊 project manager experienced in **agile workflows**  
-💻 developer with strong **full-stack foundation**  
+💻 developer with strong **full-stack foundation**
 
 ⚙️ building **e2e tests with playwright** & api tests with phpunit  
 🧩 working with **laravel-based systems**  
@@ -62,7 +63,7 @@ through thoughtful design + efficient code ✧
 🧩 test case design  
 ⚙️ automation testing (playwright)  
 🔌 backend/api testing (phpunit, laravel)  
-📈 continuous quality improvement  
+📈 continuous quality improvement
 
 ---
 
@@ -79,23 +80,23 @@ through thoughtful design + efficient code ✧
 📌 agile / scrum  
 📅 sprint planning  
 📢 stakeholder communication  
-🚧 risk management  
+🚧 risk management
 
 ---
 
 ### 🧁💻 projects
 
 🧪 **automated testing suite (playwright)**  
-— built e2e tests for core user flows  
+— built e2e tests for core user flows
 
 🔌 **api testing (phpunit + laravel)**  
-— validated backend logic & edge cases  
+— validated backend logic & edge cases
 
 🐞 **manual testing & bug reporting**  
-— structured test plans + clear documentation  
+— structured test plans + clear documentation
 
 📊 **agile qa support**  
-— ensured quality across sprint cycles  
+— ensured quality across sprint cycles
 
 ---
 
@@ -117,6 +118,6 @@ through thoughtful design + efficient code ✧
 
 ---
 
-💡 *"quality is not an act, it is a habit."*
+💡 _"quality is not an act, it is a habit."_
 
 <img src="https://placehold.jp/24/F4ACB7/F4ACB7/1500x10.png?text=%20" width="100%" height="3px" />
